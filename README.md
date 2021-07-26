@@ -1,2 +1,0 @@
-# ShiroiTopia
-Server Growtopia ShiroiTopia
